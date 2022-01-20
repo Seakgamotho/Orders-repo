@@ -1,3 +1,3 @@
 #README
 
-Some description!
+Description!
